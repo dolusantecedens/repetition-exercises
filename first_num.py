@@ -1,3 +1,8 @@
+#Stwórz nową listę i ją wydrukuj. 
+# Nowa lista powinna zawierać tylko liczby pierwsze z poprzedniej listy.
+
+
+
 list=[1, 2, 3, 5, 6, 11, 12, 18, 19, 21]
 
 first_num=[]

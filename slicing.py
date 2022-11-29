@@ -1,3 +1,3 @@
-list=[ i**3 for i in range (1,11) if i%2!=0]
+list=[2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 3, 0, 0]
 
-print(list)
+
